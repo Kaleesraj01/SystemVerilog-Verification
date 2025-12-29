@@ -3,7 +3,7 @@ program test (intf intff);
   
   environment env;
   
-  initial begin
+  initial begin   
     env = new(intff);
     env.run();
   end
