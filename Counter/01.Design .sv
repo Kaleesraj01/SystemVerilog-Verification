@@ -1,4 +1,4 @@
-// Code your design here
+  // Code your design here
 module up_counter (
     input  logic clk,
     input  logic rst_n,
